@@ -20,7 +20,7 @@ This project explores synthetic data generation using **FLAN-T5**, with validati
 
 ### 1. **Dataset Harmonization**
 
-![Combined Dataset Creation](images/Combined_Dataset_Creation.png)
+![Combined Dataset Creation](Images/Combined_Dataset_Creation.png)
 
 ### 2. **Label Validation**
 
@@ -63,32 +63,32 @@ This project explores synthetic data generation using **FLAN-T5**, with validati
 
 ### 🧬 Complex Emotion Mapping
 
-![Complex Emotions Table](images/Complex_emotions.png)
+![Complex Emotions Table](Images/Complex_emotions.png)
 
 ### 🗺 Final Label Mapping Table
 
-![Final Mapping](images/final_fine_grained.png)
+![Final Mapping](Images/final_fine_grained.png)
 
 ### 📈 Class Distributions
 
 **Fine-Grained Emotions: Real vs Synthetic**
-![Fine-Grained Class Distribution](images/fine_emotion_real_vs_syn.png)
+![Fine-Grained Class Distribution](Images/fine_emotion_real_vs_syn.png)
 
 **Overall Sentiment: Real vs Synthetic**
-![Sentiment Class Distribution](images/real_vs_syn1.png)
+![Sentiment Class Distribution](Images/real_vs_syn1.png)
 
 **Text Length Distribution: Real vs Synthetic**
-![Text Length Distribution](images/real_vs_syn2.png)
+![Text Length Distribution](Images/real_vs_syn2.png)
 
 **Real Dataset Sentiment Distribution**
-![Sentiment Distribution Real](images/sentiment_distribution.png)
+![Sentiment Distribution Real](Images/sentiment_distribution.png)
 
 **Synthetic Dataset Sentiment Distribution**
-![Sentiment Distribution Synthetic](images/sentiment_distribution_synthetic_df.png)
+![Sentiment Distribution Synthetic](Images/sentiment_distribution_synthetic_df.png)
 
 ### 📌 UMAP Visualization
 
-![UMAP Real vs Generated](images/umap.png)
+![UMAP Real vs Generated](Images/umap.png)
 
 ### 📏 Diversity Score
 
